@@ -11,7 +11,7 @@ Enlace directo a la práctica: https://github.com/XaviFdez/Practica2
 Enlace directo a la práctica:
 
 ### *- Práctica 4: SISTEMAS OPERATIVOS EN TIEMPO REAL*
-Enlace directo a la práctica:
+Enlace directo a la práctica: https://github.com/XaviFdez/Practica4
 
 ### *- Práctica 5: BUSES DE COMUNICACIÓN (I) -I2C*
 Enlace directo a la práctica:
