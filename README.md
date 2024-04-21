@@ -5,7 +5,7 @@ Indice y enlaces directos de las prácticas de laboratorio realizadas de process
 Enlace directo a la práctica:
 
 ### *Práctica 2: INTERRUPCIONES*
-Enlace directo a la práctica:
+Enlace directo a la práctica: https://github.com/XaviFdez/Practica2
 
 ### *Práctica 3: WIFI Y BLUETOOHT*
 Enlace directo a la práctica:
