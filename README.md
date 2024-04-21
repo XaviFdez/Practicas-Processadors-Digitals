@@ -1,5 +1,5 @@
 # Indice Prácticas -Processadors-Digitals-
-Indice y enlaces directos a las prácticas de laboratorio de processadors digitals:
+Indice y enlaces directos de las prácticas de laboratorio realizadas de processadors digitals:
 
 ### *Práctica 1: BLINK LED* 
 Enlace directo a la práctica:
