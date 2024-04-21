@@ -19,7 +19,7 @@ Enlace directo a la práctica:
 ### *Práctica 6: BUSES DE COMUNICACIÓN (II) -SPI*
 Enlace directo a la práctica:
 
-### *Práctica 7: BUSES DE COMUNICACIÓN (III) -I2S
+### *Práctica 7: BUSES DE COMUNICACIÓN (III) -I2S*
 Enlace directo a la práctica:
 
 
