@@ -1,7 +1,7 @@
 # Indice Prácticas -Processadors-Digitals-
 Indice y enlaces directos de las prácticas de laboratorio realizadas de processadors digitals:
 
-### *Práctica 1: BLINK LED* 
+### *- Práctica 1: BLINK LED* 
 Enlace directo a la práctica: https://github.com/XaviFdez/Practica1
 
 ### *Práctica 2: INTERRUPCIONES*
