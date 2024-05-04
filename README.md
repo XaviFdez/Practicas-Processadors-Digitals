@@ -22,6 +22,9 @@ Enlace directo a la práctica:
 ### *- Práctica 7: BUSES DE COMUNICACIÓN (III) -I2S*
 Enlace directo a la práctica:
 
+### *- Práctica 8: UART*
+Enlace directo a la práctica: 
+
 ###  - Prácticas Extras :- 
 
 
