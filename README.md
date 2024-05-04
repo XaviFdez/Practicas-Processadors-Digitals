@@ -8,7 +8,7 @@ Enlace directo a la práctica: https://github.com/XaviFdez/Practica1
 Enlace directo a la práctica: https://github.com/XaviFdez/Practica2
 
 ### *- Práctica 3: WIFI Y BLUETOOHT*
-Enlace directo a la práctica:
+Enlace directo a la práctica: https://github.com/XaviFdez/Practica3
 
 ### *- Práctica 4: SISTEMAS OPERATIVOS EN TIEMPO REAL*
 Enlace directo a la práctica: https://github.com/XaviFdez/Practica4
