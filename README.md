@@ -17,7 +17,7 @@ Enlace directo a la práctica: https://github.com/XaviFdez/Practica4
 Enlace directo a la práctica: https://github.com/XaviFdez/Practica5
 
 ### *- Práctica 6: BUSES DE COMUNICACIÓN (II) -SPI*
-Enlace directo a la práctica:
+Enlace directo a la práctica: https://github.com/XaviFdez/Practica6
 
 ### *- Práctica 7: BUSES DE COMUNICACIÓN (III) -I2S*
 Enlace directo a la práctica:
