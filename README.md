@@ -23,8 +23,10 @@ Enlace directo a la práctica: https://github.com/XaviFdez/Practica6
 Enlace directo a la práctica:
 
 ### *- Práctica 8: UART*
-Enlace directo a la práctica: 
+Enlace directo a la práctica: https://github.com/XaviFdez/Practica8
 
-###  - Prácticas Extras :- 
 
+###  - Prácticas Extras :
+
+ #### P.1 - Convertidor AD: 
 
