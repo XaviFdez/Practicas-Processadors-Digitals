@@ -20,7 +20,7 @@ Enlace directo a la práctica: https://github.com/XaviFdez/Practica5
 Enlace directo a la práctica: https://github.com/XaviFdez/Practica6
 
 ### *- Práctica 7: BUSES DE COMUNICACIÓN (III) -I2S*
-Enlace directo a la práctica:
+Enlace directo a la práctica: https://github.com/XaviFdez/Practica7
 
 ### *- Práctica 8: UART*
 Enlace directo a la práctica: https://github.com/XaviFdez/Practica8
