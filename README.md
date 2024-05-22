@@ -28,5 +28,5 @@ Enlace directo a la práctica: https://github.com/XaviFdez/Practica8
 
 ###  - Prácticas Extras :
 
- #### P.1 - Convertidor AD: 
+ #### P.1 - Convertidor AD: https://github.com/XaviFdez/Convertidor-A-D--Entrada--Pr.1 
 
